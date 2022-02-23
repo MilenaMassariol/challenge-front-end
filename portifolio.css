@@ -1,0 +1,23 @@
+body    {
+    background-color: rgb(78, 77, 77);
+}
+
+nav {
+    position: absolute;
+    top: 25px;
+    right: 60px;
+    color: palevioletred;
+}
+
+nav li {
+    display:inline;
+    margin-left: 15px;
+ }
+ 
+ nav a {
+     text-transform: uppercase;
+     color: black;
+     font-weight: bold;
+     font-size: 22px;
+     text-decoration: none;
+ }
